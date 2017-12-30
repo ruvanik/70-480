@@ -2,7 +2,7 @@
 
 # Skills measured
 
-## Implement and manipulate document structures and objects (24%)
+## 1.  Implement and manipulate document structures and objects (24%)
 
 ### 1.1: Create the document structure
 
