@@ -34,7 +34,7 @@
 
 ### 3.1: Validate user input by using HTML5 elements
 
-* [Choose the appropriate controls based on requirements; implement HTML input types and content attributes (for example, required) to collect user input](./HTML5/3.1InputControls.html)
+* [Choose the appropriate controls based on requirements; implement HTML input types and content attributes (for example, required) to collect user input](./HTML5/3.1.InputControls.html)
 
 ### 3.2: Validate user input by using JavaScript
 
