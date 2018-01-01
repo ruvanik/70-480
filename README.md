@@ -51,8 +51,8 @@
 
 ### 4.3: Create a flexible content layout
 
-* [Implement a layout using a flexible box model](./CSS/4.3.Flexbox.html)
-* implement a layout using multi-column;
+* [Implement a layout using a flexible box model](./CSS/4.3.a.Flexbox.html)
+* [implement a layout using multi-column] (./CSS/4.3.b.Multi-column.html)
 * implement a layout using position floating and exclusions;
 * implement a layout using grid alignment;
 * implement a layout using regions, grouping and nesting
