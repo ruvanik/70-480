@@ -53,9 +53,9 @@
 
 * [Implement a layout using a flexible box model](./CSS/4.3.a.Flexbox.html)
 * [implement a layout using multi-column](./CSS/4.3.b.Multi-column.html)
-* implement a layout using position floating and exclusions;
-* implement a layout using grid alignment;
-* implement a layout using regions, grouping and nesting
+* [implement a layout using position floating and exclusions](./CSS/4.3.c.Position-floating-exclusions-column.html)
+* [implement a layout using grid alignment](./CSS/4.3.d.Grid-alignment.html)
+* [implement a layout using regions, grouping and nesting](./CSS/4.3.d.Grid-alignment.html)
 
 ### 4.4: Create an animated and adaptive UI
 
