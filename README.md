@@ -59,8 +59,8 @@
 
 ### 4.4: Create an animated and adaptive UI
 
-* [Animate objects by applying CSS transitions]
-* [apply 3-D and 2-D transformations]
+* [Animate objects by applying CSS transitions](./CSS/4.4.a.Transitions.html)
+* [apply 3-D and 2-D transformations](./CSS/4.4.b.Transforms.html)
 * [adjust UI based on media queries (device adaptations for output formats, displays and representations)]
 * [hide or disable controls]
 
