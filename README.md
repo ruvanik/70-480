@@ -59,6 +59,11 @@
 
 ### 4.4: Create an animated and adaptive UI
 
+* [Animate objects by applying CSS transitions]
+* [apply 3-D and 2-D transformations]
+* [adjust UI based on media queries (device adaptations for output formats, displays and representations)]
+* [hide or disable controls]
+
 ### 4.5: Find elements by using CSS selectors and jQuery
 
 ### 4.6: Structure a CSS file by using CSS selectors
