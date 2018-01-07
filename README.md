@@ -46,6 +46,11 @@
 ## 4.  Use CSS3 in applications (25%)
 
 ### 4.1: Style HTML text properties
+* [Apply styles to text appearance (colour, bold, italics)](./CSS/4.1.a.ApplyStylestoText.html)
+* [Apply styles to text font (WOFF and @font-face, size](./CSS/4.1.b.ApplyStylestoFont.html)
+* [Apply styles to text alignment, spacing and indentation](./CSS/4.1.c.ApplyStylestoFont.html)
+* [Apply styles to text hyphenation](./CSS/4.1.d.4.1.d.ApplyHyphenation.html)
+* [Apply styles for a text drop shadow]()
 
 ### 4.2: Style HTML box properties
 
