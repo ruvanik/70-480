@@ -53,6 +53,10 @@
 * [Apply styles for a text drop shadow]()
 
 ### 4.2: Style HTML box properties
+* [Apply styles to alter appearance attributes (size, border and rounding border corners, outline, padding, margin)](./CSS/4.2.a.HTMLBoxStyle.html)
+* [Apply styles to alter graphic effects (transparency, opacity, background image, gradients, shadow, clipping)]()
+* [Apply styles to establish and change an element’s position (static, relative, absolute, fixed)]()
+
 
 ### 4.3: Create a flexible content layout
 
