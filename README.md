@@ -21,8 +21,8 @@
 
 ### 2.1: Implement program flow
 
-* Iterate across collections and array items;
-* manage program decisions by using switch statements, if/then, and operators;
+* [Iterate across collections and array items;](./Javascript/2.1.a.Arrays.html)
+* [manage program decisions by using switch statements, if/then, and operators;](./Javascript/2.1.b.SwitchCase.html)
 * evaluate expressions
 
 ### 2.2: Raise and handle an event
