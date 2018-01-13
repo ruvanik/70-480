@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Swtich Case</title>
+    <style>
+        #bgColor{
+            background-color:green;
+        }
+    </style>
+    <script>
+  
+function myFunction(){
+     var text;
+     var fruit=document.getElementById("fruitName").value;
+        switch(fruit){
+            case 'Apple':
+            text="Apples have seeds";
+            break;
+            case 'Banana':
+            text="Banana needs peeling before eating";
+            break;
+            case 'Orange':
+            text="Orage smells nice";
+            break;
+            default: 
+            text="Fruits are good for you";
+            break;
+        }
+       document.getElementById("demo").innerHTML=text;}
+    </script>
+</head>
+<body>
+    <label for="fruitName">Enter your Favourite Fruit:</label><input type="text" id="fruitName">
+    <button onclick="myFunction()">Click me </button>
+    <div id="demo"></div>
+</body>
+</html>
