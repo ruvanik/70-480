@@ -7,6 +7,9 @@
 ### 1.1: Create the document structure
 
 ### 1.2: Write code that interacts with UI controls
+*[Programmatically add and modify HTML elements;]()
+*[implement media controls;]()
+*[implement HTML5 canvas and SVG graphics]()
 
 ### 1.3: Apply styling to HTML elements programmatically
 
