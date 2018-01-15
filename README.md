@@ -37,7 +37,7 @@
 * Set and respond to error codes;
 * throw an exception;
 * request for null checks;
-* [implement try-catch-finally blocks](./Javascript/2.3.a.Error Handling.html)
+* [implement try-catch-finally blocks;](./Javascript/2.3.a.Error Handling.html)
 
 ###  2.4: Implement a callback
 * Receive messages from the HTML5 WebSocket API;
