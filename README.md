@@ -18,6 +18,10 @@
 ### 1.5: Establish the scope of objects and variables
 
 ### 1.6: Create and implement objects and methods
+* [Implement native objects;]
+* [create custom objects and custom properties for native objects using prototypes and functions;]
+* [inherit from an object;]
+* [implement native methods and create custom methods]
 
 
 ## 2.  Implement  program flow (25%)

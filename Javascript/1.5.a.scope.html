@@ -1,0 +1,54 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+   <title>Scope</title>
+</head>
+<style>
+    div{
+        width:100px;
+        height:100px;
+        border:1px solid black;
+    }
+</style>
+<script>
+    var globalVar = "global";
+
+    window.onload=function(){
+
+        var localVar = "local";
+
+        document.getElementById("Div1").onclick = function(){
+            var insideDiv1Click="insideDiv1";
+            console.log(globalVar);
+            console.log(localVar);
+            console.log(insideDiv1Click);
+        }
+        document.getElementById("Div2").onclick = function(){
+            console.log(globalVar);
+            console.log(localVar);
+            console.log(insideDiv1Click);
+        }
+        document.getElementById("Div3").onclick = function(){
+            var insideDiv3="Div3";
+            //AFunction();
+            BFunctionWithParam(insideDiv3);
+        }
+        function AFunction(){
+            var x;
+            console.log(insideDiv3); // NOT POSSIBLE DUE TO insideDiv3 is in a different scope
+        }
+        function BFunctionWithParam(p){
+            console.log(p); // only way to use a local variable in a function is by passing by a parameter value
+            console.log(localVar);
+        }
+    }
+</script>
+<body>
+    <div id="Div1"></div>
+    <div id="Div2"></div>
+    <div id="Div3"></div>
+    
+</body>
+</html>
